@@ -1,4 +1,4 @@
-from discord.commands import Bot
+from discord.ext.commands import Bot
 
 bot = Bot(command_prefix="n.")
 
